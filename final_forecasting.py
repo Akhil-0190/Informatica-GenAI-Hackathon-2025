@@ -7,10 +7,6 @@ from datetime import datetime
 from langchain_community.utilities import SQLDatabase
 from langchain_openai import AzureChatOpenAI
 
-# Set Azure OpenAI API details as environment variables
-os.environ["AZURE_OPENAI_API_KEY"] = "FHYHsFTFTpFpVN8skKUc0KMIc1uR0ID5V89xABmEr8w5E4ss5fGvJQQJ99BCAC77bzfXJ3w3AAABACOGN0Uj"
-os.environ["AZURE_OPENAI_ENDPOINT"] = "https://miniproject123.openai.azure.com/"
-
 # Function to convert Snowflake connection to SQLAlchemy engine
 def get_connection_engine():
     conn = get_connection()
@@ -37,11 +33,6 @@ def fetch_data():
 # Function to perform AI analysis for replenishment, anomalies, and forecast
 def ai_analysis(db, row):
     query = f"""
-    SELECT TIMESTAMP, STOCK_LEVEL, USAGE_RATE, MARKET_TREND, WEATHER
-    FROM public.resource_data
-    WHERE RESOURCE = '{row['RESOURCE']}'
-    ORDER BY TIMESTAMP DESC
-    LIMIT 3;
     """
     try:
         # Fetch historical data for context
@@ -56,31 +47,6 @@ def ai_analysis(db, row):
             (
                 "user",
                 f"""
-                Analyze the resource data for forecasting, replenishment, and anomalies:
-                Historical Context:
-                {historical_context}
-
-                Current Data:
-                - Resource: {row['RESOURCE']}
-                - Stock: {row['STOCK_LEVEL']} units
-                - Usage rate: {row['USAGE_RATE']} units/day
-                - Market trend: {row['MARKET_TREND']}
-                - Weather: {row['WEATHER']}
-                - Depletion timeline: {row['DEPLETION_RATE']} days
-
-                Instructions:
-                1. Generate a 1-2 line forecast, analyzing trends to anticipate future needs.
-                2. Determine if replenishment is required. If yes, specify the amount.
-                3. Identify any anomalies in the latest current data based on historical context.
-                Format your response strictly as valid JSON:
-                {{
-                    "Forecast": "<Forecast>",
-                    "Replenishment": {{
-                        "Required": "<Yes/No>",
-                        "Amount": <Amount or None>
-                    }},
-                    "Anomalies": "<Details or None>"
-                }}
                 """
             ),
         ]
