@@ -1,0 +1,341 @@
+Timestamp,Resource,Stock_Level,Usage_Rate,Market_Trend,Weather
+01-01-2025 00:00:00,Water Tank,3944.19,58.81,decreasing,Rainy
+02-01-2025 00:00:00,Water Tank,3865.15,79.04,stable,Cloudy
+03-01-2025 00:00:00,Water Tank,3810.79,54.36,increasing,Cloudy
+04-01-2025 00:00:00,Water Tank,3717.8,93.0,decreasing,Rainy
+05-01-2025 00:00:00,Water Tank,3618.47,99.33,decreasing,Sunny
+06-01-2025 00:00:00,Water Tank,3553.36,65.11,stable,Stormy
+07-01-2025 00:00:00,Water Tank,3465.38,87.97,stable,Stormy
+08-01-2025 00:00:00,Water Tank,3338.14,127.24,increasing,Sunny
+09-01-2025 00:00:00,Water Tank,3274.9,63.24,decreasing,Rainy
+10-01-2025 00:00:00,Water Tank,3184.0,90.9,stable,Cloudy
+11-01-2025 00:00:00,Water Tank,3038.84,145.16,stable,Sunny
+12-01-2025 00:00:00,Water Tank,2956.82,82.02,decreasing,Stormy
+13-01-2025 00:00:00,Water Tank,2819.68,137.14,stable,Sunny
+14-01-2025 00:00:00,Water Tank,2737.78,81.91,stable,Cloudy
+15-01-2025 00:00:00,Water Tank,2664.45,73.33,stable,Rainy
+16-01-2025 00:00:00,Water Tank,2565.17,99.27,decreasing,Stormy
+17-01-2025 00:00:00,Water Tank,2492.18,73.0,decreasing,Cloudy
+18-01-2025 00:00:00,Water Tank,2423.18,68.99,increasing,Cloudy
+19-01-2025 00:00:00,Water Tank,2345.86,77.32,decreasing,Stormy
+20-01-2025 00:00:00,Water Tank,2271.45,74.41,increasing,Rainy
+21-01-2025 00:00:00,Water Tank,2183.66,87.79,increasing,Cloudy
+22-01-2025 00:00:00,Water Tank,2122.09,61.58,stable,Stormy
+23-01-2025 00:00:00,Water Tank,2062.77,59.32,decreasing,Stormy
+24-01-2025 00:00:00,Water Tank,1943.35,119.42,decreasing,Sunny
+25-01-2025 00:00:00,Water Tank,1872.54,70.81,increasing,Rainy
+26-01-2025 00:00:00,Water Tank,1775.2,97.34,decreasing,Sunny
+27-01-2025 00:00:00,Water Tank,1678.92,96.29,decreasing,Rainy
+28-01-2025 00:00:00,Water Tank,1600.64,78.28,stable,Stormy
+29-01-2025 00:00:00,Water Tank,1543.74,56.9,decreasing,Cloudy
+30-01-2025 00:00:00,Water Tank,1485.53,58.21,increasing,Stormy
+31-01-2025 00:00:00,Water Tank,1428.56,56.97,increasing,Cloudy
+01-01-2025 00:00:00,Fuel,4833.63,66.37,decreasing,Rainy
+02-01-2025 00:00:00,Fuel,4743.61,90.02,stable,Cloudy
+03-01-2025 00:00:00,Fuel,4625.26,118.34,increasing,Stormy
+04-01-2025 00:00:00,Fuel,4533.59,91.67,stable,Sunny
+05-01-2025 00:00:00,Fuel,4453.9,79.69,decreasing,Cloudy
+06-01-2025 00:00:00,Fuel,4388.88,65.02,increasing,Rainy
+07-01-2025 00:00:00,Fuel,4215.09,173.79,stable,Stormy
+08-01-2025 00:00:00,Fuel,4090.84,124.26,decreasing,Stormy
+09-01-2025 00:00:00,Fuel,3960.91,129.93,decreasing,Sunny
+10-01-2025 00:00:00,Fuel,3865.2,95.71,increasing,Rainy
+11-01-2025 00:00:00,Fuel,3710.61,154.59,stable,Stormy
+12-01-2025 00:00:00,Fuel,3641.03,69.58,increasing,Rainy
+13-01-2025 00:00:00,Fuel,3588.11,52.92,increasing,Sunny
+14-01-2025 00:00:00,Fuel,3428.73,159.38,increasing,Stormy
+15-01-2025 00:00:00,Fuel,3351.97,76.75,decreasing,Sunny
+16-01-2025 00:00:00,Fuel,3299.94,52.03,stable,Rainy
+17-01-2025 00:00:00,Fuel,3219.85,80.09,increasing,Sunny
+18-01-2025 00:00:00,Fuel,3113.91,105.94,increasing,Cloudy
+19-01-2025 00:00:00,Fuel,3011.34,102.58,stable,Sunny
+20-01-2025 00:00:00,Fuel,2822.69,188.64,decreasing,Stormy
+21-01-2025 00:00:00,Fuel,2704.86,117.83,increasing,Sunny
+22-01-2025 00:00:00,Fuel,2579.81,125.05,decreasing,Stormy
+23-01-2025 00:00:00,Fuel,2418.04,161.78,increasing,Stormy
+24-01-2025 00:00:00,Fuel,2315.87,102.16,stable,Stormy
+25-01-2025 00:00:00,Fuel,2216.5,99.37,decreasing,Sunny
+26-01-2025 00:00:00,Fuel,2035.24,181.26,increasing,Stormy
+27-01-2025 00:00:00,Fuel,1930.47,104.78,decreasing,Cloudy
+28-01-2025 00:00:00,Fuel,1864.02,66.45,stable,Cloudy
+29-01-2025 00:00:00,Fuel,1796.74,67.28,increasing,Cloudy
+30-01-2025 00:00:00,Fuel,1673.11,123.63,decreasing,Cloudy
+31-01-2025 00:00:00,Fuel,1571.5,101.6,increasing,Stormy
+01-01-2025 00:00:00,Electricity,2949.76,121.24,increasing,Stormy
+02-01-2025 00:00:00,Electricity,2717.95,231.81,decreasing,Cloudy
+03-01-2025 00:00:00,Electricity,2483.61,234.34,stable,Cloudy
+04-01-2025 00:00:00,Electricity,2240.82,242.79,increasing,Cloudy
+05-01-2025 00:00:00,Electricity,2017.23,223.59,increasing,Cloudy
+06-01-2025 00:00:00,Electricity,1890.38,126.85,increasing,Stormy
+07-01-2025 00:00:00,Electricity,1755.41,134.97,stable,Sunny
+08-01-2025 00:00:00,Electricity,1661.75,93.65,stable,Stormy
+09-01-2025 00:00:00,Electricity,1518.26,143.49,decreasing,Stormy
+10-01-2025 00:00:00,Electricity,1430.2,88.06,stable,Stormy
+11-01-2025 00:00:00,Electricity,1164.75,265.45,decreasing,Cloudy
+12-01-2025 00:00:00,Electricity,1049.35,115.4,stable,Rainy
+13-01-2025 00:00:00,Electricity,780.22,269.12,increasing,Sunny
+14-01-2025 00:00:00,Electricity,543.09,237.14,decreasing,Cloudy
+15-01-2025 00:00:00,Electricity,4254.84,110.25,stable,Stormy
+16-01-2025 00:00:00,Electricity,4156.23,98.61,increasing,Stormy
+17-01-2025 00:00:00,Electricity,4017.9,138.33,increasing,Sunny
+18-01-2025 00:00:00,Electricity,3917.26,100.64,stable,Sunny
+19-01-2025 00:00:00,Electricity,3788.96,128.3,decreasing,Cloudy
+20-01-2025 00:00:00,Electricity,3652.63,136.32,decreasing,Sunny
+21-01-2025 00:00:00,Electricity,3542.08,110.55,stable,Rainy
+22-01-2025 00:00:00,Electricity,3261.06,281.02,decreasing,Cloudy
+23-01-2025 00:00:00,Electricity,3118.81,142.25,increasing,Stormy
+24-01-2025 00:00:00,Electricity,2958.37,160.44,increasing,Cloudy
+25-01-2025 00:00:00,Electricity,2868.96,89.41,increasing,Rainy
+26-01-2025 00:00:00,Electricity,2742.9,126.07,increasing,Stormy
+27-01-2025 00:00:00,Electricity,2642.96,99.93,increasing,Rainy
+28-01-2025 00:00:00,Electricity,2534.16,108.81,increasing,Stormy
+29-01-2025 00:00:00,Electricity,2429.46,104.7,decreasing,Stormy
+30-01-2025 00:00:00,Electricity,2348.08,81.38,stable,Stormy
+31-01-2025 00:00:00,Electricity,2204.57,143.5,decreasing,Stormy
+01-01-2025 00:00:00,Food Supplies,2917.04,42.96,decreasing,Rainy
+02-01-2025 00:00:00,Food Supplies,2882.3,34.74,increasing,Sunny
+03-01-2025 00:00:00,Food Supplies,2849.35,32.95,stable,Rainy
+04-01-2025 00:00:00,Food Supplies,2811.12,38.23,stable,Stormy
+05-01-2025 00:00:00,Food Supplies,2757.38,53.74,increasing,Cloudy
+06-01-2025 00:00:00,Food Supplies,2720.39,36.99,stable,Sunny
+07-01-2025 00:00:00,Food Supplies,2692.95,27.44,decreasing,Cloudy
+08-01-2025 00:00:00,Food Supplies,2670.28,22.67,decreasing,Sunny
+09-01-2025 00:00:00,Food Supplies,2629.61,40.68,stable,Sunny
+10-01-2025 00:00:00,Food Supplies,2575.3,54.31,increasing,Stormy
+11-01-2025 00:00:00,Food Supplies,2538.08,37.22,decreasing,Cloudy
+12-01-2025 00:00:00,Food Supplies,2494.18,43.9,increasing,Stormy
+13-01-2025 00:00:00,Food Supplies,2458.31,35.86,stable,Sunny
+14-01-2025 00:00:00,Food Supplies,2414.1,44.22,increasing,Rainy
+15-01-2025 00:00:00,Food Supplies,2379.36,34.74,decreasing,Cloudy
+16-01-2025 00:00:00,Food Supplies,2335.18,44.19,increasing,Sunny
+17-01-2025 00:00:00,Food Supplies,2303.06,32.12,stable,Stormy
+18-01-2025 00:00:00,Food Supplies,2246.34,56.72,decreasing,Rainy
+19-01-2025 00:00:00,Food Supplies,2188.31,58.03,stable,Rainy
+20-01-2025 00:00:00,Food Supplies,2155.4,32.9,decreasing,Rainy
+21-01-2025 00:00:00,Food Supplies,2100.44,54.96,decreasing,Rainy
+22-01-2025 00:00:00,Food Supplies,2075.83,24.61,decreasing,Stormy
+23-01-2025 00:00:00,Food Supplies,2039.54,36.29,increasing,Stormy
+24-01-2025 00:00:00,Food Supplies,2005.72,33.82,stable,Sunny
+25-01-2025 00:00:00,Food Supplies,1983.05,22.66,increasing,Rainy
+26-01-2025 00:00:00,Food Supplies,1954.34,28.72,increasing,Cloudy
+27-01-2025 00:00:00,Food Supplies,1914.65,39.69,increasing,Stormy
+28-01-2025 00:00:00,Food Supplies,1855.41,59.24,stable,Stormy
+29-01-2025 00:00:00,Food Supplies,1806.98,48.43,decreasing,Cloudy
+30-01-2025 00:00:00,Food Supplies,1770.84,36.14,increasing,Stormy
+31-01-2025 00:00:00,Food Supplies,1732.47,38.36,decreasing,Rainy
+01-01-2025 00:00:00,Medical Kits,3081.02,2.98,stable,Cloudy
+02-01-2025 00:00:00,Medical Kits,3074.6,6.43,increasing,Stormy
+03-01-2025 00:00:00,Medical Kits,3068.14,6.46,decreasing,Sunny
+04-01-2025 00:00:00,Medical Kits,3065.1,3.04,stable,Rainy
+05-01-2025 00:00:00,Medical Kits,3058.2,6.9,increasing,Sunny
+06-01-2025 00:00:00,Medical Kits,3054.75,3.44,increasing,Rainy
+07-01-2025 00:00:00,Medical Kits,3052.47,2.28,decreasing,Cloudy
+08-01-2025 00:00:00,Medical Kits,3048.5,3.97,stable,Stormy
+09-01-2025 00:00:00,Medical Kits,3039.04,9.47,increasing,Rainy
+10-01-2025 00:00:00,Medical Kits,3031.84,7.19,decreasing,Cloudy
+11-01-2025 00:00:00,Medical Kits,3027.22,4.62,increasing,Sunny
+12-01-2025 00:00:00,Medical Kits,3023.38,3.84,decreasing,Sunny
+13-01-2025 00:00:00,Medical Kits,3019.49,3.89,increasing,Rainy
+14-01-2025 00:00:00,Medical Kits,3014.16,5.33,decreasing,Cloudy
+15-01-2025 00:00:00,Medical Kits,3010.97,3.2,decreasing,Sunny
+16-01-2025 00:00:00,Medical Kits,3006.19,4.78,stable,Stormy
+17-01-2025 00:00:00,Medical Kits,2998.24,7.95,decreasing,Stormy
+18-01-2025 00:00:00,Medical Kits,2990.38,7.86,stable,Rainy
+19-01-2025 00:00:00,Medical Kits,2985.93,4.45,decreasing,Cloudy
+20-01-2025 00:00:00,Medical Kits,2979.79,6.14,decreasing,Cloudy
+21-01-2025 00:00:00,Medical Kits,2972.02,7.77,decreasing,Sunny
+22-01-2025 00:00:00,Medical Kits,2968.01,4.01,stable,Rainy
+23-01-2025 00:00:00,Medical Kits,2961.67,6.33,increasing,Stormy
+24-01-2025 00:00:00,Medical Kits,2958.75,2.93,stable,Sunny
+25-01-2025 00:00:00,Medical Kits,2954.74,4.0,increasing,Stormy
+26-01-2025 00:00:00,Medical Kits,2949.82,4.92,stable,Cloudy
+27-01-2025 00:00:00,Medical Kits,2941.11,8.71,increasing,Sunny
+28-01-2025 00:00:00,Medical Kits,2937.8,3.31,decreasing,Rainy
+29-01-2025 00:00:00,Medical Kits,2933.52,4.28,increasing,Rainy
+30-01-2025 00:00:00,Medical Kits,2928.81,4.72,increasing,Sunny
+31-01-2025 00:00:00,Medical Kits,2926.6,2.2,decreasing,Cloudy
+01-02-2025 00:00:00,Water Tank,1375.85,52.71,increasing,Rainy
+01-02-2025 00:00:00,Fuel,1460.48,111.02,increasing,Stormy
+01-02-2025 00:00:00,Electricity,2112.38,92.19,increasing,Rainy
+01-02-2025 00:00:00,Food Supplies,1711.91,20.56,decreasing,Stormy
+01-02-2025 00:00:00,Medical Kits,2919.52,7.08,stable,Cloudy
+02-02-2025 00:00:00,Water Tank,1292.84,83.01,increasing,Cloudy
+02-02-2025 00:00:00,Fuel,1318.05,142.43,increasing,Stormy
+02-02-2025 00:00:00,Electricity,1924.1,188.28,increasing,Cloudy
+02-02-2025 00:00:00,Food Supplies,1672.28,39.63,increasing,Stormy
+02-02-2025 00:00:00,Medical Kits,2911.8,7.72,increasing,Sunny
+03-02-2025 00:00:00,Water Tank,1224.11,68.73,decreasing,Stormy
+03-02-2025 00:00:00,Fuel,1259.71,58.34,increasing,Cloudy
+03-02-2025 00:00:00,Electricity,1662.35,261.75,stable,Sunny
+03-02-2025 00:00:00,Food Supplies,1643.04,29.24,stable,Stormy
+03-02-2025 00:00:00,Medical Kits,2908.36,3.44,increasing,Stormy
+04-02-2025 00:00:00,Water Tank,1156.92,67.19,decreasing,Stormy
+04-02-2025 00:00:00,Fuel,1199.97,59.74,increasing,Sunny
+04-02-2025 00:00:00,Electricity,1556.53,105.82,stable,Cloudy
+04-02-2025 00:00:00,Food Supplies,1586.58,56.46,decreasing,Sunny
+04-02-2025 00:00:00,Medical Kits,2905.3,3.06,increasing,Rainy
+05-02-2025 00:00:00,Water Tank,1015.5,141.42,decreasing,Sunny
+06-02-2025 00:00:00,Water Tank,929.05,86.45,stable,Rainy
+07-02-2025 00:00:00,Water Tank,855.09,73.96,decreasing,Stormy
+08-02-2025 00:00:00,Water Tank,758.47,96.62,increasing,Sunny
+09-02-2025 00:00:00,Water Tank,698.55,59.92,increasing,Rainy
+10-02-2025 00:00:00,Water Tank,621.81,76.74,stable,Rainy
+11-02-2025 00:00:00,Water Tank,569.82,51.98,decreasing,Rainy
+12-02-2025 00:00:00,Water Tank,459.86,109.97,decreasing,Sunny
+13-02-2025 00:00:00,Water Tank,363.2,96.65,decreasing,Stormy
+14-02-2025 00:00:00,Water Tank,282.91,80.29,stable,Stormy
+15-02-2025 00:00:00,Water Tank,200.23,82.68,increasing,Cloudy
+16-02-2025 00:00:00,Water Tank,131.19,69.04,increasing,Cloudy
+17-02-2025 00:00:00,Water Tank,79.45,51.74,increasing,Stormy
+18-02-2025 00:00:00,Water Tank,0.0,91.62,decreasing,Stormy
+19-02-2025 00:00:00,Water Tank,0.0,90.76,stable,Cloudy
+20-02-2025 00:00:00,Water Tank,0.0,82.95,increasing,Rainy
+21-02-2025 00:00:00,Water Tank,0.0,58.51,stable,Cloudy
+22-02-2025 00:00:00,Water Tank,0.0,56.65,stable,Cloudy
+23-02-2025 00:00:00,Water Tank,0.0,78.45,stable,Rainy
+24-02-2025 00:00:00,Water Tank,0.0,85.51,increasing,Rainy
+25-02-2025 00:00:00,Water Tank,0.0,94.01,increasing,Sunny
+26-02-2025 00:00:00,Water Tank,0.0,134.96,increasing,Sunny
+27-02-2025 00:00:00,Water Tank,0.0,62.06,stable,Stormy
+28-02-2025 00:00:00,Water Tank,0.0,59.24,increasing,Cloudy
+01-03-2025 00:00:00,Water Tank,0.0,104.47,stable,Sunny
+02-03-2025 00:00:00,Water Tank,0.0,76.48,increasing,Sunny
+03-03-2025 00:00:00,Water Tank,0.0,55.96,increasing,Stormy
+04-03-2025 00:00:00,Water Tank,0.0,52.75,stable,Stormy
+05-03-2025 00:00:00,Water Tank,0.0,93.8,decreasing,Rainy
+06-03-2025 00:00:00,Water Tank,0.0,99.68,stable,Sunny
+05-02-2025 00:00:00,Fuel,1135.56,64.41,stable,Rainy
+06-02-2025 00:00:00,Fuel,1042.12,93.45,increasing,Cloudy
+07-02-2025 00:00:00,Fuel,949.81,92.31,decreasing,Cloudy
+08-02-2025 00:00:00,Fuel,823.04,126.77,decreasing,Stormy
+09-02-2025 00:00:00,Fuel,766.57,56.47,increasing,Sunny
+10-02-2025 00:00:00,Fuel,701.33,65.23,decreasing,Cloudy
+11-02-2025 00:00:00,Fuel,616.86,84.47,stable,Rainy
+12-02-2025 00:00:00,Fuel,535.83,81.03,decreasing,Rainy
+13-02-2025 00:00:00,Fuel,417.18,118.65,decreasing,Stormy
+14-02-2025 00:00:00,Fuel,305.15,112.03,stable,Sunny
+15-02-2025 00:00:00,Fuel,215.63,89.52,stable,Cloudy
+16-02-2025 00:00:00,Fuel,84.7,130.93,increasing,Stormy
+17-02-2025 00:00:00,Fuel,9.22,75.48,increasing,Cloudy
+18-02-2025 00:00:00,Fuel,0.0,110.81,increasing,Sunny
+19-02-2025 00:00:00,Fuel,0.0,115.23,stable,Cloudy
+20-02-2025 00:00:00,Fuel,0.0,128.08,decreasing,Sunny
+21-02-2025 00:00:00,Fuel,0.0,78.61,decreasing,Cloudy
+22-02-2025 00:00:00,Fuel,0.0,98.76,decreasing,Sunny
+23-02-2025 00:00:00,Fuel,0.0,106.39,stable,Cloudy
+24-02-2025 00:00:00,Fuel,0.0,102.35,decreasing,Sunny
+25-02-2025 00:00:00,Fuel,0.0,165.0,decreasing,Stormy
+26-02-2025 00:00:00,Fuel,0.0,132.43,decreasing,Stormy
+27-02-2025 00:00:00,Fuel,0.0,70.87,increasing,Rainy
+28-02-2025 00:00:00,Fuel,0.0,123.4,decreasing,Stormy
+01-03-2025 00:00:00,Fuel,0.0,107.04,increasing,Cloudy
+02-03-2025 00:00:00,Fuel,0.0,66.02,stable,Rainy
+03-03-2025 00:00:00,Fuel,0.0,62.69,stable,Sunny
+04-03-2025 00:00:00,Fuel,0.0,94.3,stable,Rainy
+05-03-2025 00:00:00,Fuel,0.0,165.31,increasing,Stormy
+06-03-2025 00:00:00,Fuel,0.0,116.32,increasing,Cloudy
+05-02-2025 00:00:00,Electricity,1459.58,96.95,stable,Rainy
+06-02-2025 00:00:00,Electricity,1340.02,119.56,stable,Rainy
+07-02-2025 00:00:00,Electricity,1204.37,135.65,stable,Stormy
+08-02-2025 00:00:00,Electricity,1058.98,145.39,increasing,Cloudy
+09-02-2025 00:00:00,Electricity,790.76,268.22,stable,Sunny
+10-02-2025 00:00:00,Electricity,689.7,101.06,increasing,Cloudy
+11-02-2025 00:00:00,Electricity,548.11,141.59,decreasing,Rainy
+12-02-2025 00:00:00,Electricity,462.41,85.7,increasing,Rainy
+13-02-2025 00:00:00,Electricity,324.29,138.13,decreasing,Stormy
+14-02-2025 00:00:00,Electricity,184.35,139.94,decreasing,Rainy
+15-02-2025 00:00:00,Electricity,42.29,142.06,increasing,Sunny
+16-02-2025 00:00:00,Electricity,0.0,137.15,decreasing,Cloudy
+17-02-2025 00:00:00,Electricity,0.0,110.64,stable,Stormy
+18-02-2025 00:00:00,Electricity,0.0,171.78,increasing,Sunny
+19-02-2025 00:00:00,Electricity,0.0,112.61,increasing,Stormy
+20-02-2025 00:00:00,Electricity,0.0,91.94,stable,Rainy
+21-02-2025 00:00:00,Electricity,0.0,127.38,decreasing,Rainy
+22-02-2025 00:00:00,Electricity,0.0,82.11,increasing,Rainy
+23-02-2025 00:00:00,Electricity,0.0,137.88,decreasing,Cloudy
+24-02-2025 00:00:00,Electricity,0.0,111.93,increasing,Rainy
+25-02-2025 00:00:00,Electricity,0.0,291.12,stable,Cloudy
+26-02-2025 00:00:00,Electricity,0.0,125.18,stable,Rainy
+27-02-2025 00:00:00,Electricity,0.0,118.7,stable,Rainy
+28-02-2025 00:00:00,Electricity,0.0,110.04,decreasing,Stormy
+01-03-2025 00:00:00,Electricity,0.0,186.12,increasing,Sunny
+02-03-2025 00:00:00,Electricity,0.0,157.02,increasing,Sunny
+03-03-2025 00:00:00,Electricity,0.0,83.74,increasing,Rainy
+04-03-2025 00:00:00,Electricity,0.0,97.97,decreasing,Stormy
+05-03-2025 00:00:00,Electricity,0.0,115.14,decreasing,Stormy
+06-03-2025 00:00:00,Electricity,0.0,248.52,decreasing,Cloudy
+05-02-2025 00:00:00,Food Supplies,1548.12,38.46,decreasing,Rainy
+06-02-2025 00:00:00,Food Supplies,1518.47,29.65,decreasing,Rainy
+07-02-2025 00:00:00,Food Supplies,1496.15,22.32,decreasing,Stormy
+08-02-2025 00:00:00,Food Supplies,1449.11,47.04,decreasing,Rainy
+09-02-2025 00:00:00,Food Supplies,1393.02,56.09,stable,Sunny
+10-02-2025 00:00:00,Food Supplies,1355.8,37.22,increasing,Rainy
+11-02-2025 00:00:00,Food Supplies,1334.69,21.1,increasing,Stormy
+12-02-2025 00:00:00,Food Supplies,1293.53,41.16,increasing,Rainy
+13-02-2025 00:00:00,Food Supplies,1261.2,32.33,stable,Cloudy
+14-02-2025 00:00:00,Food Supplies,1201.32,59.88,increasing,Sunny
+15-02-2025 00:00:00,Food Supplies,1180.99,20.33,decreasing,Cloudy
+16-02-2025 00:00:00,Food Supplies,1121.59,59.4,stable,Rainy
+17-02-2025 00:00:00,Food Supplies,1101.17,20.42,decreasing,Cloudy
+18-02-2025 00:00:00,Food Supplies,1069.53,31.64,decreasing,Sunny
+19-02-2025 00:00:00,Food Supplies,1028.36,41.16,decreasing,Sunny
+20-02-2025 00:00:00,Food Supplies,994.52,33.84,increasing,Rainy
+21-02-2025 00:00:00,Food Supplies,958.92,35.6,decreasing,Rainy
+22-02-2025 00:00:00,Food Supplies,927.36,31.56,stable,Sunny
+23-02-2025 00:00:00,Food Supplies,881.28,46.08,decreasing,Rainy
+24-02-2025 00:00:00,Food Supplies,859.7,21.57,increasing,Stormy
+25-02-2025 00:00:00,Food Supplies,832.58,27.13,stable,Rainy
+26-02-2025 00:00:00,Food Supplies,808.56,24.01,stable,Cloudy
+27-02-2025 00:00:00,Food Supplies,769.65,38.92,stable,Sunny
+28-02-2025 00:00:00,Food Supplies,741.3,28.35,stable,Stormy
+01-03-2025 00:00:00,Food Supplies,684.49,56.81,stable,Rainy
+02-03-2025 00:00:00,Food Supplies,626.4,58.09,increasing,Sunny
+03-03-2025 00:00:00,Food Supplies,575.47,50.93,stable,Sunny
+04-03-2025 00:00:00,Food Supplies,538.34,37.13,decreasing,Rainy
+05-03-2025 00:00:00,Food Supplies,507.37,30.97,decreasing,Stormy
+06-03-2025 00:00:00,Food Supplies,480.78,26.6,decreasing,Sunny
+05-02-2025 00:00:00,Medical Kits,2902.47,2.83,decreasing,Stormy
+06-02-2025 00:00:00,Medical Kits,2896.48,5.99,decreasing,Rainy
+07-02-2025 00:00:00,Medical Kits,2888.49,7.99,stable,Sunny
+08-02-2025 00:00:00,Medical Kits,2881.33,7.16,increasing,Stormy
+09-02-2025 00:00:00,Medical Kits,2873.86,7.47,decreasing,Stormy
+10-02-2025 00:00:00,Medical Kits,2868.4,5.47,decreasing,Cloudy
+11-02-2025 00:00:00,Medical Kits,2860.81,7.58,increasing,Sunny
+12-02-2025 00:00:00,Medical Kits,2855.52,5.29,increasing,Stormy
+13-02-2025 00:00:00,Medical Kits,2851.48,4.04,increasing,Sunny
+14-02-2025 00:00:00,Medical Kits,2848.14,3.34,stable,Sunny
+15-02-2025 00:00:00,Medical Kits,2844.91,3.23,stable,Rainy
+16-02-2025 00:00:00,Medical Kits,2840.71,4.2,increasing,Stormy
+17-02-2025 00:00:00,Medical Kits,2833.04,7.68,stable,Rainy
+18-02-2025 00:00:00,Medical Kits,2828.29,4.75,stable,Stormy
+19-02-2025 00:00:00,Medical Kits,2820.69,7.59,stable,Rainy
+20-02-2025 00:00:00,Medical Kits,2815.17,5.52,stable,Cloudy
+21-02-2025 00:00:00,Medical Kits,2810.52,4.65,stable,Rainy
+22-02-2025 00:00:00,Medical Kits,2804.68,5.85,stable,Cloudy
+23-02-2025 00:00:00,Medical Kits,2799.66,5.02,increasing,Sunny
+24-02-2025 00:00:00,Medical Kits,2792.02,7.64,decreasing,Sunny
+25-02-2025 00:00:00,Medical Kits,2788.82,3.2,stable,Stormy
+26-02-2025 00:00:00,Medical Kits,2780.66,8.17,increasing,Rainy
+27-02-2025 00:00:00,Medical Kits,2777.81,2.84,decreasing,Cloudy
+28-02-2025 00:00:00,Medical Kits,2775.78,2.03,stable,Rainy
+01-03-2025 00:00:00,Medical Kits,2771.06,4.72,increasing,Stormy
+02-03-2025 00:00:00,Medical Kits,2763.09,7.97,stable,Stormy
+03-03-2025 00:00:00,Medical Kits,2756.36,6.73,decreasing,Sunny
+04-03-2025 00:00:00,Medical Kits,2750.92,5.44,decreasing,Stormy
+05-03-2025 00:00:00,Medical Kits,2745.83,5.09,increasing,Cloudy
+06-03-2025 00:00:00,Medical Kits,2742.16,3.68,increasing,Sunny
+07-03-2025 00:00:00,Water Tank,0.0,70.08,stable,Stormy
+07-03-2025 00:00:00,Fuel,0.0,117.79,stable,Stormy
+07-03-2025 00:00:00,Electricity,0.0,118.58,decreasing,Stormy
+07-03-2025 00:00:00,Food Supplies,438.64,42.14,stable,Rainy
+07-03-2025 00:00:00,Medical Kits,2739.83,2.33,decreasing,Sunny
+08-03-2025 00:00:00,Water Tank,0.0,91.16,increasing,Sunny
+08-03-2025 00:00:00,Fuel,0.0,91.09,stable,Sunny
+08-03-2025 00:00:00,Electricity,0.0,150.72,increasing,Cloudy
+08-03-2025 00:00:00,Food Supplies,386.66,51.98,stable,Stormy
+08-03-2025 00:00:00,Medical Kits,2734.18,5.65,stable,Rainy
+09-03-2025 00:00:00,Water Tank,0.0,99.0,decreasing,Rainy
+09-03-2025 00:00:00,Fuel,0.0,83.62,increasing,Sunny
+09-03-2025 00:00:00,Electricity,0.0,249.22,decreasing,Sunny
+09-03-2025 00:00:00,Food Supplies,357.55,29.11,decreasing,Stormy
+09-03-2025 00:00:00,Medical Kits,2728.83,5.35,decreasing,Stormy
