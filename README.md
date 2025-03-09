@@ -27,6 +27,10 @@ The system leverages AI and analytics to provide:
 - **Automated Replenishment**: Tracks stock levels and initiates restocking when thresholds are reached.
 - **Detailed Insights**: Provides usage level trends, resource composition charts, and replenishment logs for transparency and decision-making.
 
+## Screenshots
+
+Screenshots showcasing the dashboard and its features will be uploaded.
+
 ## Tech Stack
 
 - **Data Integration**: Informatica Intelligent Cloud Services (IICS) for ETL processes.
@@ -35,11 +39,6 @@ The system leverages AI and analytics to provide:
 - **Automation**: IICS Taskflows for orchestrating automated processes.
 - **Visualization**: Power BI for real-time dashboards and analytics.
 - **Backend**: OpenAI APIs for AI-driven insights.
-
-
-## Screenshots
-
-Screenshots showcasing the dashboard and its features will be uploaded.
 
 ## Roadmap
 
