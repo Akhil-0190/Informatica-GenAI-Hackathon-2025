@@ -42,7 +42,7 @@ def ai_analysis(db, row):
         messages = [
             (
                 "system",
-                "You are an AI assistant performing resource forecasting, replenishment analysis, and anomaly detection. Always respond in valid JSON format."
+                ""
             ),
             (
                 "user",
